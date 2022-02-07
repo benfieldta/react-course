@@ -1,6 +1,6 @@
 ![](https://wes.io/dgAQ/content)
 
-# React Course
+# React Course - Travis
 
 Starter files for the React course.
 

@@ -6,7 +6,7 @@ Starter files for the React course.
 
 The code in this repo meant to be a reference point for anyone following along with the video course.
 
-## To Start
+## To Start the Course
 
 **Note** - One of the dependencies is Xcode. While installing, if you run into an error that says, `gyp: No Xcode or CLT version detected!` please do the following:
 
